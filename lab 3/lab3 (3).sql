@@ -19,3 +19,39 @@ SELECT distinct time_slot.time_slot_id, title
 from time_slot, course, section
 where end_hr < 13 and section.time_slot_id = time_slot.time_slot_id and course.course_id = section.course_id
 order by time_slot.time_slot_id;
+
+
+UNIVERSITY
+_name_
+{faculties}
+rector
+number_of_students
+year_of_foundation
+
+COURSE
+_course_id_
+name
+faculty
+credits
+
+DORMITORY
+_student_id_
+s_name
+corpus
+room_number
+{number}
+
+TEACHER
+_t_id_
+name
+first_name
+second_name
+course_id
+experience
+{number}
+
+OR
+_manager_id_
+{number}
+faculty
+
