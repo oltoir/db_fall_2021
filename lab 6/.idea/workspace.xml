@@ -29,7 +29,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Database Script.1.sql">
+  <component name="RunManager" selected="Database Script.lab 8.sql">
     <configuration name="1.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
       <script-file value="$PROJECT_DIR$/1.sql" />
       <script-mode>FILE</script-mode>
@@ -41,6 +41,11 @@
       <script-mode>FILE</script-mode>
       <method v="2" />
     </configuration>
+    <configuration name="lab 8.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/../lab 8/lab 8.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
     <configuration name="mylab6.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
       <script-file value="$PROJECT_DIR$/mylab6.sql" />
       <script-mode>FILE</script-mode>
@@ -48,6 +53,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Database Script.lab 8.sql" />
         <item itemvalue="Database Script.1.sql" />
         <item itemvalue="Database Script.mylab6.sql" />
         <item itemvalue="Database Script.2.sql" />
