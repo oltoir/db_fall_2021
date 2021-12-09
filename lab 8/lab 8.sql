@@ -37,7 +37,7 @@ create or replace function inc(val integer) returns boolean as
     $$
 language plpgsql;
 
-select inc(3);
+select inc(4);
 
 -- task 1.5
 create or replace function hi_lo(
